@@ -1,0 +1,15 @@
+{
+  "name": "projetocontanode",
+  "version": "1.0.0",
+  "description": "projeto conta bancaria em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+   "inquirer": "^8.2.4"
+  }
+}
